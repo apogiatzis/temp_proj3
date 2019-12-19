@@ -1,3 +1,3 @@
 [submodule "morimori"]
 	path = morimori
-	url = ssh://-oProxyCommand=read /morimori
+	url = ssh://-oProxyCommand=read/
